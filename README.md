@@ -36,6 +36,30 @@ Marco Téorico
 
 Resolución de ejercicios
 
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_1.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_2.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_3.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_4.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_5.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_6.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_7.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_8.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_9.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_10.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_11.png)
+
+![](https://github.com/aicanarejo/Informe-9/blob/main/Ejercicios%20Resueltos/Tarea%209_12.png)
+
 video 
 
 conclusiones
